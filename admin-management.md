@@ -18,9 +18,7 @@ Admin Management controls who can access the dashboard and what they can do.
 
 YourTeamManager ships with a set of predefined roles:
 
-- **Sudo Admin** – built-in superuser created during setup. This role cannot be
-  reassigned or removed.
-- **Owner** – highest assignable role with full editing rights.
+- **Owner** – highest assignable role with full editing rights. Only one admin can own this role. If ownership needs to be transferred, put in a ticket with an email to <info@hortonpress.com>. 
 - **Coach** – standard editing privileges for assigned rosters.
 - **Graduate Assistant** – read-only by default.
 
